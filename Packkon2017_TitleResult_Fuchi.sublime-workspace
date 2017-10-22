@@ -1,0 +1,845 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mo",
+				"moveTime\tfloat"
+			],
+			[
+				"Re",
+				"return\treturn"
+			],
+			[
+				"ba",
+				"Barrel\tGameObject"
+			],
+			[
+				"c",
+				"Collider\tCollider"
+			],
+			[
+				"game",
+				"GameObject\tGameObject"
+			],
+			[
+				"py",
+				"Physics\tPhysics"
+			],
+			[
+				"Ra",
+				"Ray\tRay"
+			],
+			[
+				"Uni",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"Euler",
+				"EulerAngles(Vector3 euler)\tQuaternion"
+			],
+			[
+				"Co",
+				"Collider\tCollider"
+			],
+			[
+				"co",
+				"Color\tColor"
+			],
+			[
+				"U",
+				"UpArrow\tKeyCode"
+			],
+			[
+				"Ke",
+				"KeyCode\tKeyCode"
+			],
+			[
+				"get",
+				"GetKeyDown(string name)\tbool"
+			],
+			[
+				"ene",
+				"Enemys\tGameObject[]"
+			],
+			[
+				"p",
+				"playerHP\tint"
+			],
+			[
+				"Stat",
+				"StatePlayer\tStatePlayer"
+			],
+			[
+				"gae",
+				"GameObject\tGameObject"
+			],
+			[
+				"PLa",
+				"PlayerHP\tPlayerHP"
+			],
+			[
+				"gam",
+				"GameObject\tGameObject"
+			],
+			[
+				"def",
+				"defRotate\tVector3"
+			],
+			[
+				"Pla",
+				"Player\tGameObject"
+			],
+			[
+				"Pl",
+				"PlayMode\tPlayMode"
+			],
+			[
+				"Ca",
+				"CageManager\tCageManager"
+			],
+			[
+				"ca",
+				"CageManager\tCageManager"
+			],
+			[
+				"catc",
+				"catchCount\tint"
+			],
+			[
+				"tr",
+				"true\ttrue"
+			],
+			[
+				"Mi",
+				"Middle\tGameObject"
+			],
+			[
+				"ri",
+				"rightPos\tVector3"
+			],
+			[
+				"ve",
+				"Vector3\tVector3"
+			],
+			[
+				"can",
+				"CanEmergence()\tvoid"
+			],
+			[
+				"Gameo",
+				"GameObject\tGameObject"
+			],
+			[
+				"r",
+				"rndTime\tfloat"
+			],
+			[
+				"g",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"lo",
+				"LoadResult()\tvoid"
+			],
+			[
+				"in",
+				"Input\tInput"
+			],
+			[
+				"Appear",
+				"AppearFruit\tAppearFruit"
+			],
+			[
+				"ap",
+				"AppearFruit\tAppearFruit"
+			],
+			[
+				"fru",
+				"AppearFruit\tAppearFruit"
+			],
+			[
+				"de",
+				"DeleteObject\tDeleteObject"
+			],
+			[
+				"De",
+				"DestroyFruit\tDestroyFruit"
+			],
+			[
+				"Fr",
+				"FruitEmergence()\tvoid"
+			],
+			[
+				"fin",
+				"FindActiveObject()\tint"
+			],
+			[
+				"app",
+				"AppearPoints\tGameObject[]"
+			],
+			[
+				"App",
+				"AppearPoints\tGameObject[]"
+			],
+			[
+				"S",
+				"SerializeField\tSerializeField"
+			],
+			[
+				"cat",
+				"CatchFruit\tCatchFruit"
+			],
+			[
+				"Sc",
+				"ScoreControl\tScoreControl"
+			],
+			[
+				"se",
+				"SerializeField\tSerializeField"
+			],
+			[
+				"Ve",
+				"Vector2\tVector2"
+			],
+			[
+				"frui",
+				"fruitAppearPos\tVector3"
+			],
+			[
+				"pi",
+				"public\tpublic"
+			],
+			[
+				"di",
+				"direction\tint"
+			],
+			[
+				"f",
+				"fruitPos\tVector3"
+			],
+			[
+				"Ma",
+				"Mathf\tMathf"
+			],
+			[
+				"ra",
+				"Range(int min, int max)\tint"
+			],
+			[
+				"d",
+				"dropTime\tfloat"
+			],
+			[
+				"des",
+				"Destroy(Object obj)\tvoid"
+			],
+			[
+				"sc",
+				"score\tint"
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"pa",
+				"Parent\tCanvas"
+			],
+			[
+				"CrowA",
+				"CrowAppear\tCrowAppear"
+			],
+			[
+				"cro",
+				"CrowParent\tGameObject"
+			],
+			[
+				"Cwo",
+				"Crow\tCrow"
+			],
+			[
+				"Cr",
+				"CrowEmergance\tCrowEmergance"
+			],
+			[
+				"ge",
+				"GetKeyDown(string name)\tbool"
+			],
+			[
+				"sca",
+				"lossyScale\tVector3 { get; }"
+			],
+			[
+				"bo",
+				"BoxCollider2D\tBoxCollider2D"
+			],
+			[
+				"box",
+				"BoxCollider2D\tBoxCollider2D"
+			],
+			[
+				"o",
+				"obje\tGameObject"
+			],
+			[
+				"Box",
+				"BoxCollider2D\tBoxCollider2D"
+			],
+			[
+				"log",
+				"Log(object message)\tvoid"
+			],
+			[
+				"GetKey",
+				"GetKeyDown(string name)\tbool"
+			],
+			[
+				"is",
+				"isOnTruck\tbool"
+			],
+			[
+				"a",
+				"attachedRigidbody\tRigidbody { get; }"
+			],
+			[
+				"t",
+				"truck\tGameObject"
+			],
+			[
+				"Ge",
+				"GetKey(string name)\tbool"
+			],
+			[
+				"sr",
+				"SerializeField\tSerializeField"
+			],
+			[
+				"ne",
+				"NewBehaviourScript\tNewBehaviourScript"
+			],
+			[
+				"Mo",
+				"Move\tMove"
+			],
+			[
+				"conta",
+				"ContactPoint2D\tContactPoint2D"
+			],
+			[
+				"v",
+				"verticalSpeed\tfloat"
+			],
+			[
+				"Geto",
+				"GetObject_U(Vector3 pos)\tGameObject"
+			],
+			[
+				"re",
+				"Reflect(Vector3 inDirection, Vector3 inNormal)\tVector3"
+			],
+			[
+				"pos",
+				"position\tVector3 { get; set; }"
+			],
+			[
+				"tra",
+				"Translate(Vector3 translation)\tvoid"
+			],
+			[
+				"bl",
+				"Block_Pref\tGameObject"
+			],
+			[
+				"time",
+				"timeScale\tfloat { get; set; }"
+			],
+			[
+				"au",
+				"AudioSource\tAudioSource"
+			],
+			[
+				"pla",
+				"Play()\tvoid"
+			],
+			[
+				"B",
+				"BGMSound\tAudioClip"
+			],
+			[
+				"Au",
+				"AudioSource\tAudioSource"
+			],
+			[
+				"Range",
+				"Range(int min, int max)\tint"
+			],
+			[
+				"legapre",
+				"legAppearRect\tRect"
+			],
+			[
+				"getc",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"le",
+				"legAppearPos\tVector3"
+			],
+			[
+				"fon",
+				"fontSize\tint { get; set; }"
+			],
+			[
+				"GUI",
+				"GUIStyle()\tGUIStyle()"
+			],
+			[
+				"findin",
+				"FindInactiveLegs()\tint"
+			],
+			[
+				"Leg",
+				"LegObjects\tGameObject[]"
+			],
+			[
+				"In",
+				"Instantiate(Object original)\tObject"
+			],
+			[
+				"ga",
+				"GameObject\tGameObject"
+			],
+			[
+				"po",
+				"pos"
+			],
+			[
+				"C",
+				"CanvasObj"
+			],
+			[
+				"cl",
+				"collider"
+			],
+			[
+				"fl",
+				"flag"
+			],
+			[
+				"ta",
+				"TapEvent"
+			],
+			[
+				"tap",
+				"Tap"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Packkon2017_TitleResult_Fuchi.sublime-project",
+			"settings":
+			{
+				"buffer_size": 426,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 64.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"o",
+				"OmniSharpSublime: Show Info Panel"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Build: New Build System"
+			],
+			[
+				"s",
+				"Set Syntax: C#"
+			],
+			[
+				"instal",
+				"Plugin Development: Convert Syntax to .sublime-syntax"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 359.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"#include<iostream>",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hw16a167/Documents/unity/Packkon2017_TitleResult_Fuchi"
+	],
+	"file_history":
+	[
+		"/Users/hw16a167/Documents/unity/Test/Assets/NewBehaviourScript.cs",
+		"/Users/hw16a167/Documents/unity/Test/Test.sublime-project",
+		"/Users/hw16a167/Documents/unity/MoveTest/MoveTest.sublime-project",
+		"/Users/hw16a167/Documents/unity/MoveTest/Assets/NewBehaviourScript.cs",
+		"/Users/hw16a167/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hw16a167/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/hw16a167/Documents/unity/MoveTest/Assets/Spawn.cs",
+		"/Users/hw16a167/Documents/unity/Unity5.5.0/tank_test/Assets/Scripts/GUI_PlayerHP.cs",
+		"/Users/hw16a167/Documents/unity/Unity5.5.0/tank_test/tank_test.sublime-project",
+		"/Users/hw16a167/Documents/unity/Unity5.5.0/tank_test/Assets/Scripts/CameraMaster.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/MoveScene_ToTitle.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/KinectTest.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/TimeControl.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/MoveScene_ToResult.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/MoveScene_ToMain.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/DestroyFruit.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/CatchFruit.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/AppearCrow.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/CrowEmergance.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/Destroy.cs.meta",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/FruitEmergance.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/BirdEmergance.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/Script/ScoreControl.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/TimeControl.cs.meta",
+		"/Users/hw16a167/Documents/unity/FruitCatch_ver0/Assets/BirdMove.cs.meta",
+		"/Users/hw16a167/Documents/unity/FruitCatch/FruitCatch_truck_2017_05_22_Fuchi/Assets/ColliderControl.cs",
+		"/Users/hw16a167/Documents/unity/FruitCatch/FruitCatch_truck_2017_05_22_Fuchi/Assets/bg_natural_mori.jpg.meta",
+		"/Users/hw16a167/Documents/unity/KeyTest_Proj/Assets/GetKeyScript.cs",
+		"/Users/hw16a167/Desktop/KeyTest_Proj.sublime-project",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/MouseAppear.sublime-project",
+		"/Users/hw16a167/Documents/unity/Truck_Hit/Assets/NewBehaviourScript.cs",
+		"/Users/hw16a167/Documents/unity/MoveByMap/Assets/CameraManager.cs",
+		"/Users/hw16a167/Documents/unity/MoveByMap/Assembly-CSharp.csproj",
+		"/Users/hw16a167/Documents/unity/MoveByMap/Assets/MapCameraManager.cs",
+		"/Users/hw16a167/Documents/unity/hoge/Assets/NewBehaviourScript1.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/Gyro_Test/Assets/NewBehaviourScript1.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/Gyro_Test/Assets/NewBehaviourScript.cs",
+		"/Users/hw16a167/Documents/unity/hoge/Assets/NewBehaviourScript.cs",
+		"/Users/hw16a167/Documents/unity/hoge/Assets/Move.cs",
+		"/Users/hw16a167/Documents/unity/hoge/Assets/NewBehaviourScript.cs.meta",
+		"/Users/hw16a167/Documents/unity/hoge/Assets/Gene.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/Gyro_Test/Assets/JyroManager.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/LegsAppear/Assets/LegFunction.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/LegsAppear/Assets/LegSpawn.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/LegsAppear/LegsAppear.sln",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/Assets/Scripts/FindMouse.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/Assets/Scripts/AddMouse.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/Assets/Scripts/FindInactiveObject.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/MouseAppear.sln",
+		"/Applications/Unity/Unity.app/Contents/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/Assets/Scripts/MouseSpawn.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/Assets/Scripts/Test.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/Assets/Scripts/Debug_SetActiveFalse.cs",
+		"/Users/hw16a167/Documents/unity/Project_P/MouseAppear/Assets/Scripts/MouseApper.cs",
+		"/Users/hw16a167/Documents/unity/project_training_me/c1_tap_tap_dash_submission/Assets/Scripts/player.cs",
+		"/Users/hw16a167/Documents/unity/project_training_me/Sprote_test/Assets/Move.cs",
+		"/Users/hw16a167/Documents/unity/project_training_me/Tap_Test/Assets/ConfigSystem.cs",
+		"/Users/hw16a167/Documents/unity/project_training_me/Tap_Test/Assets/ConfigExit.cs",
+		"/Users/hw16a167/Documents/unity/project_training_me/Tap_Test/Assets/Tap.cs",
+		"/Users/hw16a167/Documents/unity/project_training_me/New Unity Project/untitled.sublime-project",
+		"/Users/hw16a167/Documents/unity/project_training_me/c1_tap_tap_dash_submission/Assets/Scripts/camera.cs",
+		"/Users/hw16a167/Documents/PAC/ぱくぱく/Assets/Script/ImageChanger.cs",
+		"/Users/hw16a167/Documents/PAC/ぱくぱく/Assets/Script/MainGame/NoteSystem16.cs",
+		"/Users/hw16a167/Documents/PAC/ぱくぱく/Assets/Script/MyScript.cs",
+		"/Users/hw16a167/Documents/PAC/ぱくぱく/Assets/Script/Title/TitleSystem.cs",
+		"/Users/hw16a167/Desktop/Ex_01",
+		"/Users/hw16a167/Documents/unity/My Great Game_2/Assets/Ball.cs"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Packkon2017_TitleResult_Fuchi.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 205.0
+	},
+	"pinned_build_system": "",
+	"project": "Packkon2017_TitleResult_Fuchi.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Packkon2017_TitleResult_Fuchi.sublime-project"
+			],
+			[
+				".cs",
+				"Assets/NewBehaviourScript.cs"
+			],
+			[
+				"f",
+				"Assets/Script/Fruit.cs"
+			],
+			[
+				"move",
+				"Assets/Script/CrowMove.cs"
+			],
+			[
+				"crow",
+				"Assets/Script/CrowAppear.cs"
+			],
+			[
+				"em",
+				"Assets/Script/CrowEmergance.cs"
+			],
+			[
+				"on",
+				"Assets/Script/OnTruck.cs"
+			],
+			[
+				"mo",
+				"Assets/Script/MovePlayer.cs"
+			],
+			[
+				"sc",
+				"Assets/Script/ScoreControl.cs"
+			],
+			[
+				"fru",
+				"Assets/Script/FruitEmergance.cs"
+			],
+			[
+				"ke",
+				"Assets/GetKeyScript.cs"
+			],
+			[
+				"n",
+				"Assets/NewBehaviourScript1.cs"
+			],
+			[
+				"ne",
+				"Assets/NewBehaviourScript1.cs"
+			],
+			[
+				"new",
+				"Assets/NewBehaviourScript1.cs"
+			],
+			[
+				"nw",
+				"Assets/NewBehaviourScript.cs"
+			],
+			[
+				"mana",
+				"Assets/Pause_Manager.cs"
+			],
+			[
+				"bg",
+				"Assets/BGM_Manager.cs"
+			],
+			[
+				"cs",
+				"Assets/LegSpawn.cs"
+			],
+			[
+				"j",
+				"Assets/JyroManager.cs"
+			],
+			[
+				"le",
+				"Assets/LegFunction.cs"
+			],
+			[
+				"spa",
+				"Assets/Scripts/SpawnMouse.cs"
+			],
+			[
+				"mou",
+				"Assets/Scripts/SpawnMouse.cs"
+			],
+			[
+				"mouse",
+				"Assets/Scripts/AddMouse.cs"
+			],
+			[
+				"ina",
+				"Assets/Scripts/FindInactiveObject.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
