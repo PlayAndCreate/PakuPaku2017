@@ -72,6 +72,9 @@
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity5.1.0/Unity5.1.0.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
+ <Reference Include="SerialLib">
+ <HintPath>/Users/hw15a186/GitHub/PakuPaku2017/Assets/Plugin/SerialLib.dll</HintPath>
+ </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity5.1.0/Unity5.1.0.app/Contents/Frameworks/Managed/UnityEditor.Graphs.dll</HintPath>
  </Reference>
@@ -98,9 +101,6 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>/Applications/Unity5.1.0/Unity5.1.0.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
- </Reference>
- <Reference Include="SerialLib">
- <HintPath>/Users/hw15a186/GitHub/PakuPaku2017/Assets/Plugin/SerialLib.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.iOS.Extensions.Xcode">
  <HintPath>/Applications/Unity5.1.0/Unity5.1.0.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
