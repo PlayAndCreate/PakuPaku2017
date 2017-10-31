@@ -59,7 +59,7 @@
      <Compile Include="Assets\Scripts\MusicGame_CS\NoteMaster.cs" />
      <Compile Include="Assets\Scripts\MusicGame_CS\NoteSystem.cs" />
      <Compile Include="Assets\Scripts\Score.cs" />
-     <Compile Include="Assets\SerialTest.cs" />
+     <Compile Include="Assets\Scripts\SerialTest.cs" />
      <None Include="Assets\Resources\Fade\Materials\UI-Fade-Alpha.shader" />
      <None Include="Assets\Resources\Fade\Materials\UI-Fade-Cutout.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
