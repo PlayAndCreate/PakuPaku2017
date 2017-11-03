@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//using UnityEditor;
 
+//unityのエディタでのみ動く
 #if UNITY_EDITOR
 public class NoteEditer : MonoBehaviour {
 
@@ -31,22 +31,22 @@ public class NoteEditer : MonoBehaviour {
 
 	private GameObject notePrefab;
 
-//	void Awake(){
-//		self = this;
-//		bps = 60f/bpm;
-//		try
-//		{
-//			Instantiate (Resources.Load (bgm.clip.name));
-//		}
-//		catch
-//		{
-//			Debug.LogError("error");
-//			UnityEditor.EditorApplication.isPlaying = false;
-//			GameObject notePrefabA = new GameObject(bgm.clip.name);
-//			notePrefabA.tag = "NoteFile";
-//			return;
-//		}
-//	}
+	//	void Awake(){
+	//		self = this;
+	//		bps = 60f/bpm;
+	//		try
+	//		{
+	//			Instantiate (Resources.Load (bgm.clip.name));
+	//		}
+	//		catch
+	//		{
+	//			Debug.LogError("error");
+	//			UnityEditor.EditorApplication.isPlaying = false;
+	//			GameObject notePrefabA = new GameObject(bgm.clip.name);
+	//			notePrefabA.tag = "NoteFile";
+	//			return;
+	//		}
+	//	}
 
 	void Start(){
 		self = this;
@@ -58,11 +58,11 @@ public class NoteEditer : MonoBehaviour {
 		}
 		catch
 		{
- 			Debug.LogError("error:" +
- 				"Resourcesに音楽の名前と同名のプレハブを作ってください(日本語NG)");
+			Debug.LogError("error:" +
+				"Resourcesに音楽の名前と同名のプレハブを作ってください(日本語NG)");
 			UnityEditor.EditorApplication.isPlaying = false;
-//			GameObject notePrefabA = new GameObject(bgm.clip.name);
-//			notePrefabA.tag = "NoteFile";
+			//			GameObject notePrefabA = new GameObject(bgm.clip.name);
+			//			notePrefabA.tag = "NoteFile";
 			return;
 		}
 
